@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pedro Polanco
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently learning node and data structure and algorithms.
+- 📫 How to reach me -> polancopedroc@gmail.com
