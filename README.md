@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pedro Polanco
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning ruby on rails and refreshing my knowledge on data structure and algorithms.
+- 👀 I’m interested in fast growing startups.
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me -> polancopedroc@gmail.com
